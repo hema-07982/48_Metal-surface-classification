@@ -22,11 +22,8 @@ Accuracy Score
 Precision
 F1-score
 
-Difficulties facing (queries)
-I applied random forest and naïve bayes for this dataset and I got the error 3d dimension. How to apply this algorithim in 3D dataset
 
-
- Training and testing time along with machine hardware description
+Training and testing time along with machine hardware description
 Using Laptop: Training time = 15 to 20 minutes. Testing Time = 1 minute
 
  
